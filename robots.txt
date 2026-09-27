@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://apps.big7star.com/sitemap.xml
